@@ -1,0 +1,21 @@
+{
+  "appId": "com.example.app",
+  "appName": "order food",
+  "bundledWebRuntime": false,
+  "webDir": "build",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    },
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  },
+  "server": {
+    "url": "http://192.168.1.149:3000",
+    "cleartext": true
+  }
+}
+
+
+

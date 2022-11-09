@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538657052502",
+    "project_id": "fatima-e4b29",
+    "storage_bucket": "fatima-e4b29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538657052502:android:9ffd9f7d32d209c4ffa8f7",
+        "android_client_info": {
+          "package_name": "ir.fatima.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538657052502-dsn9p6st62achg93fdk2net7stg27spu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs5Q9fRMyfthSTPYsVs8bv3S9mUX_KZ-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538657052502-dsn9p6st62achg93fdk2net7stg27spu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
